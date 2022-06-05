@@ -1,0 +1,7 @@
+[0]
+ArrayInterfaceCore = "0.1"
+DiffEqBase = "6"
+DocStringExtensions = "0.8-0.9"
+Lazy = "0.15"
+Setfield = "1"
+StaticArrays = "1"
